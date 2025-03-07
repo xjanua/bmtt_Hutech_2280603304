@@ -11,6 +11,7 @@ def kiem_tra_so_nguyen_to(n):
 number = int(input("Nhập vào số cần kiểm tra: "))
 
 
+
 if kiem_tra_so_nguyen_to(number):
     print(number, "là số nguyên tố.")
 else:

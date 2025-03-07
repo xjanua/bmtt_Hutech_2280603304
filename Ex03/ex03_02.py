@@ -7,3 +7,4 @@ numbers = list(map(int, input_list.split(',')))
 
 list_dao_nguoc = dao_nguoc_list(numbers)
 print("List sau khi đảo ngược:", list_dao_nguoc)
+

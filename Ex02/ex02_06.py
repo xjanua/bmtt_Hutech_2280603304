@@ -1,4 +1,5 @@
 
+
 input_str = input("Nhập X, Y: ")
 
 

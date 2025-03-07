@@ -2,6 +2,7 @@
 print("Nhập các dòng văn bản (Nhập 'done' để kết thúc):")
 lines = []
 
+
 while True:
     line = input()
     if line.lower() == 'done':

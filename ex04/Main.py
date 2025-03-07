@@ -18,6 +18,7 @@ while True:
 
     key = int(input("Nhập tùy chọn: "))
     
+    
     if key == 1:
         print("\n1. Thêm sinh viên.")
         qlsv.nhapSinhVien()
