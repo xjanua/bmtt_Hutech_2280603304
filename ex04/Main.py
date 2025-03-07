@@ -3,6 +3,7 @@ from QuanLySinhVien import QuanLySinhVien
 qlsv = QuanLySinhVien()
 
 while True:
+     
     print("\nCHƯƠNG TRÌNH QUẢN LÝ SINH VIÊN")
     print("************************************")
     print("** 1. Thêm sinh viên.             **")

@@ -4,6 +4,7 @@ class QuanLySinhVien:
     listSinhVien = []
 
     def generateID(self):
+         
         maxId = 1
         if self.soLuongSinhVien() > 0:
             maxId = self.listSinhVien[0]._id
