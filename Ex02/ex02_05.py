@@ -16,3 +16,4 @@ thuc_linh = (gio_tieu_chuan * luong_gio) + (gio_vuot_chuan * luong_gio * 1.5)
 
 print(f"Số tiền thực lĩnh của nhân viên: {thuc_linh}")
 
+

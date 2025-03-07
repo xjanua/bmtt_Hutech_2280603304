@@ -19,3 +19,4 @@ if so_chia_het_cho_5:
     print("Các số nhị phân chia hết cho 5 là:", ket_qua)
 else:
     print("Không có số nhị phân nào chia hết cho 5 trong chuỗi đã nhập.")
+

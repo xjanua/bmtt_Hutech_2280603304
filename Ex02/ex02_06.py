@@ -18,4 +18,5 @@ for row in range(rowNum):
         multiList[row][col] = row * col
 
 
+
 print(multiList)

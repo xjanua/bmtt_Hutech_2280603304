@@ -13,3 +13,4 @@ while True:
 print("\nCác dòng đã nhập sau khi chuyển thành chữ in hoa:")
 for line in lines:
     print(line.upper())
+

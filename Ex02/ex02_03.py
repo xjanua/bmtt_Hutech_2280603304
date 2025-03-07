@@ -7,3 +7,4 @@ if so % 2 == 0:
 else:
     print(so, "không phải là số chẵn.")
 
+
